@@ -8,5 +8,6 @@ public class Main {
     Connection to Repository is : OK
     and fully usable
     */
+        System.out.println("Hello World!");
     }
 }
